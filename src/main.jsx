@@ -5,7 +5,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 import './index.css'
 
 import App from './App.jsx'
-import Form from './components/sections/form.jsx';
+import Form from './components/sections/Form.jsx';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
